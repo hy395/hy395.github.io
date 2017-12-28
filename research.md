@@ -19,7 +19,7 @@ pubs:
       journal: "in preparation"
       year:    "2018"
 
-    - title:   "Stage-Specific Human Induced Pluripotent Stem Cells Map the Progression of Meyloid Transformation to Transplantable Leukemia"
+    - title:   "Stage-specific human induced pluripotent stem cells map the progression of meyloid transformation to transplantable leukemia"
       author:  "Kotini AG, Chang CJ, Chow A, Yuan H, et al."
       journal: "Cell Stem Cell"
       year:    "2017"
@@ -39,7 +39,7 @@ pubs:
 
     - title:   "Translational profiling of hypocretin neurons identifies candidate molecules for sleep regulation"
       author:  "Dalal J, Roh JH, Shah S, Yuan H, et al."
-      journal: " Gene & Development"
+      journal: "Gene & Development"
       year:    "2013"
       url:     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3605469/"
 

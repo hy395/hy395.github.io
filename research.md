@@ -48,19 +48,24 @@ pubs:
 
 My research interests include both developing machine learning methods to address biological relevant questions, and understanding complex biological systems and processes by next-generation sequence data analysis.
 
-## Publications (peer reviewed)
+## Publications
 
 {% assign thumbnail="left" %}
 
 {% for pub in page.pubs %}
-{% if pub.image %}
-{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
-{% endif %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
-{{pub.author}}<br />
+[**{{pub.title}}*]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})
+*{{pub.author}}*
 *{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+*{{pub.year}}* 
 
 {% endfor %}
+
+## Conferences
+Kshirsagar M, Yuan H*, Leslie CS. Topic model for inferring transcription factor binding profiles jointly from SELEX-seq and ATAC-seq. CSHL New York Quantitative Biology Meeting, August 2017. (*Oral presenter).
+
+Yuan H*, Paskov I, Paskov H, González AJ, Leslie CS. Multitask learning improves prediction of cancer drug sensitivity, NYAS Machine Learning Symposium, March 2016 (*Oral presenter)
+
+Paskov I, Yuan H*, Paskov H, González AJ, Leslie CS. Joint learning over drugs improves prediction of cancer drug response, RECOMB/ISCB Conference on Regulatory and Systems Genomics, Abstract and Oral Presentation, 2014. (*Oral presenter)
+
+Dougherty JD, Yuan H, Constantino JN. Testing the Molecular Genetic Basis of Transmission of Autism Risk by Healthy Mothers, the International Meeting for Autism Research, Donostia, Spain, 2013.
+

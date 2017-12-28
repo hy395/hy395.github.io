@@ -4,67 +4,49 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
+    - title:   "Characterize transcription factor binding in a shared space"
+      author:  "Yuan H, Kshirsgar M, Leslie CS"
+      journal: "in preparation"
+      year:    "2018"
+
+    - title: "Topic model for infering transcription factor binding jointly from SELEX-seq and ATAC_seq"
+      author:  "Kshirsgar M, Yuan H, Leslie CS"
+      journal: "in preparation"
+      year:    "2018"
+
+    - title:   "characterization of global BRD binding pattern"
+      author:  "Schaefer U, Yuan H, Leslie CS, Tarakhovsky A"
+      journal: "in preparation"
+      year:    "2018"
+
+    - title:   "Stage-Specific Human Induced Pluripotent Stem Cells Map the Progression of Meyloid Transformation to Transplantable Leukemia"
+      author:  "Kotini AG, Chang CJ, Chow A, Yuan H, et al."
+      journal: "Cell Stem Cell"
+      year:    "2017"
+      url:     "http://www.cell.com/cell-stem-cell/abstract/S1934-5909(17)30031-0"
+
+    - title:   "Multitask learning improves prediction of cancer drug sensitivity"
+      author:  "Yuan H, Paskov I, Paskov H, Gonzalez AJ, Leslie CS"
+      journal: "Scientific Reports"
       year:    "2016"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+      url:     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4994023/"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2015"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
+    - title:   "Investigation of maternal genotype effects in autism by genome-wide association"
+      author:  "Yuan H, Dougherty JD"
+      journal: "Autism Research"
       year:    "2014"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+      url:     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989385/"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
+    - title:   "Translational profiling of hypocretin neurons identifies candidate molecules for sleep regulation"
+      author:  "Dalal J, Roh JH, Shah S, Yuan H, et al."
+      journal: " Gene & Development"
       year:    "2013"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+      url:     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3605469/"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2012"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
 
 ---
+
+My research interests include both developing machine learning methods to address biological relevant questions, and understanding complex biological systems and processes by next-generation sequence data analysis.
 
 ## Publications (peer reviewed)
 

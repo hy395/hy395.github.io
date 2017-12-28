@@ -12,7 +12,7 @@ Using publicly available drug response and molecular characterization data sets 
 
 ### collaboration projects
 I engage in a number of collaborative projects to study cancer biology and immunology from a data-driven prospective. Meanwhile, together with my colleagues, we established a pipeline to process next-genereation sequencing data (RNA-seq, ChIP-seq, ATAC-seq) in an efficient and reproducible manner. These projects include: 
-*identify target genomic regions for safe and efficient CRISPR editing in CAR-T cells, collaboration with Michel Sadelain lab;
-*study the roles of BET proteins in response to viral infection, collaboration with Alexander Tarakhovsky lab;
-*study characteristics of leukemia induced pluripotent stem cells, collaboration with Michael Kharas and Eirini Papapetrou lab;
-*study expression changes in mouse regulatory T cells with gastrointestinal stromal tumors, collaboration with Ronald DeMatteo lab. 
+* identify target genomic regions for safe and efficient CRISPR editing in CAR-T cells, collaboration with Michel Sadelain lab;
+* study the roles of BET proteins in response to viral infection, collaboration with Alexander Tarakhovsky lab;
+* study characteristics of leukemia induced pluripotent stem cells, collaboration with Michael Kharas and Eirini Papapetrou lab;
+* study expression changes in mouse regulatory T cells with gastrointestinal stromal tumors, collaboration with Ronald DeMatteo lab. 

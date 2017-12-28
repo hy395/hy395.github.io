@@ -2,70 +2,17 @@
 layout: page
 permalink: /research/
 title: Research
-pubs:
-
-    - title:   "Characterize transcription factor binding in a shared space."
-      author:  "Yuan H, Kshirsgar M, Leslie CS."
-      journal: "in preparation"
-      year:    "2018"
-
-    - title: "Topic model for infering transcription factor binding jointly from SELEX-seq and ATAC_seq."
-      author:  "Kshirsgar M, Yuan H, Leslie CS."
-      journal: "in preparation"
-      year:    "2018"
-
-    - title:   "Characterization of global BRD binding pattern."
-      author:  "Schaefer U, Yuan H, Leslie CS, Tarakhovsky A."
-      journal: "in preparation"
-      year:    "2018"
-
-    - title:   "Stage-specific human induced pluripotent stem cells map the progression of meyloid transformation to transplantable leukemia."
-      author:  "Kotini AG, Chang CJ, Chow A, Yuan H, et al."
-      journal: "Cell Stem Cell"
-      year:    "2017"
-      url:     "http://www.cell.com/cell-stem-cell/abstract/S1934-5909(17)30031-0"
-
-    - title:   "Multitask learning improves prediction of cancer drug sensitivity."
-      author:  "Yuan H, Paskov I, Paskov H, Gonzalez AJ, Leslie CS."
-      journal: "Scientific Reports"
-      year:    "2016"
-      url:     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4994023/"
-
-    - title:   "Investigation of maternal genotype effects in autism by genome-wide association."
-      author:  "Yuan H, Dougherty JD."
-      journal: "Autism Research"
-      year:    "2014"
-      url:     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989385/"
-
-    - title:   "Translational profiling of hypocretin neurons identifies candidate molecules for sleep regulation."
-      author:  "Dalal J, Roh JH, Shah S, Yuan H, et al."
-      journal: "Gene & Development"
-      year:    "2013"
-      url:     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3605469/"
-
-
 ---
 
-My research interests include both developing machine learning methods to address biological relevant questions, and understanding complex biological systems and processes by next-generation sequence data analysis.
+## Characterize transcription factor binding using supervised embedding method
+Transcription factor binding site prediction: Using in vitro binding profiles of transcription factors and genome-wide chromatin accessibility assays such as ATAC-seq or DNase-seq, we apply machine learning methods (such as topic model) to decode the transcription factor binding network in various cell types. 
 
-## Publications
+## Predict cancer drug response using multitask learning
+Using publicly available drug response and molecular characterization data sets of cancer cell lines, we developed a novel multi-task learning approach to predict drug sensitivity. While traditional approaches train a model for each drug independently, our model train one model for all drugs at once. Our model exploits the relationship between drugs to improve prediction performance. We implemented a trace norm regularized regression model that outperformed elastic net single-task learning model on all data sets.
 
-{% assign thumbnail="left" %}
-
-{% for pub in page.pubs %}
-[{{pub.title}}]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})
-{{pub.author}}
-*{{pub.journal}}*
-*{{pub.year}}*
-
-{% endfor %}
-
-## Conferences
-Kshirsagar M, Yuan H\*, Leslie CS. Topic model for inferring transcription factor binding profiles jointly from SELEX-seq and ATAC-seq. CSHL New York Quantitative Biology Meeting, August 2017. (*Oral presenter).
-
-Yuan H\*, Paskov I, Paskov H, González AJ, Leslie CS. Multitask learning improves prediction of cancer drug sensitivity, NYAS Machine Learning Symposium, March 2016 (*Oral presenter)
-
-Paskov I, Yuan H\*, Paskov H, González AJ, Leslie CS. Joint learning over drugs improves prediction of cancer drug response, RECOMB/ISCB Conference on Regulatory and Systems Genomics, Abstract and Oral Presentation, 2014. (*Oral presenter)
-
-Dougherty JD, Yuan H, Constantino JN. Testing the Molecular Genetic Basis of Transmission of Autism Risk by Healthy Mothers, the International Meeting for Autism Research, Donostia, Spain, 2013.
-
+## collaboration projects
+I engage in a number of collaborative projects to study cancer biology and immunology from a data-driven prospective. Meanwhile, together with my colleagues, we established a pipeline to process next-genereation sequencing data (RNA-seq, ChIP-seq, ATAC-seq) in an efficient and reproducible manner. These projects include: 
+identify target genomic regions for safe and efficient CRISPR editing in CAR-T cells, collaboration with Michel Sadelain lab;
+study the roles of BET proteins in response to viral infection, collaboration with Alexander Tarakhovsky lab;
+study characteristics of leukemia induced pluripotent stem cells, collaboration with Michael Kharas and Eirini Papapetrou lab;
+study expression changes in mouse regulatory T cells with gastrointestinal stromal tumors, collaboration with Ronald DeMatteo lab. 

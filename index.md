@@ -11,7 +11,8 @@ I am a Ph.D student in the Tri-Institutional Computational Biology and Medicine 
 ## Contact
 
 Han Yuan <br />
-Email: [hy395@cornell.edu]
+This is my [cv]: <br />
+Email: "hy395 [at] cornell [dot] edu"
 
+[cv]: http://cbio.mskcc.org/~hy395/cv.pdf
 [Christina Leslie]: http://cbio.mskcc.org/leslielab/index.html
-[hy395@cornell.edu]: mailto:hy395@cornell.edu

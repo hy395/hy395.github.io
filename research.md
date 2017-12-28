@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
 title: Research
+permalink: /research/
 ---
 
 ## Characterize transcription factor binding using supervised embedding method

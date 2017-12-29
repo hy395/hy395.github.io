@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-{% include image.html url="images/profile.jpg" caption="" max_width="100px" align="right" %}
+{% include image.html url="images/profile.jpg" caption="" width="100px" height="70px" align="right" %}
 
 ### About Me
 I am a Ph.D student in the Tri-Institutional Computational Biology and Medicine Program (Cornell University, Weill Cornell Medical School, and Memorial Sloan Kettering Cancer Center). I am working in Dr. [Christina Leslie]'s lab. We develop novel computational methods to study biological systems from a data-driven perspective.

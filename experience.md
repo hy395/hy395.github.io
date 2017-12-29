@@ -15,7 +15,7 @@ Instructor, [Introduction to R], 2016 Spring, 2016 Fall,  2017 Spring, 2017 Fall
 Course materials can be found [here]. <br />
 
 ### University Service
-Tri-I CBM program Student Council member (2015-2016).
+Tri-I CBM program Student Council member (2015-2016). <br />
 Tri-I CBM program Committee member (2016-2017).
 
 [Introduction to R]: http://www.trii.org/courses/r.html

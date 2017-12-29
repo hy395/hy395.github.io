@@ -59,7 +59,7 @@ pubs:
 {% endfor %}
 
 ## Conferences
-Kshirsagar M, **Yuan H\***, Leslie CS. Topic model for inferring transcription factor binding profiles jointly from SELEX-seq and ATAC-seq. CSHL New York Quantitative Biology Meeting, August 2017. (*Oral presenter).
+Kshirsagar M, **{Yuan H\*}**, Leslie CS. Topic model for inferring transcription factor binding profiles jointly from SELEX-seq and ATAC-seq. CSHL New York Quantitative Biology Meeting, August 2017. (*Oral presenter).
 
 **Yuan H\***, Paskov I, Paskov H, González AJ, Leslie CS. Multitask learning improves prediction of cancer drug sensitivity, NYAS Machine Learning Symposium, March 2016 (*Oral presenter)
 

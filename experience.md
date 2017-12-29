@@ -5,26 +5,35 @@ permalink: /experience/
 ---
 
 ### Internship
-May.2016 - August.2016 <br />
 **IBM Thomas J. Watson Research Center, Computational Genomics Group, Yorktown Heights, NY** <br />
+May.2016 - August.2016 <br />
 Using public cancer immunotherapy response and gene expression data sets, we try to identify the gene signatures that predicts immunotherapy effectiveness and resistance.
 
 ### Teaching
-**Tri-institution: Weill Cornell, Rockefeller and Memorial Sloan Kettering**
-Instructor, [Introduction to R], 2016 Spring, 2016 Fall,  2017 Spring, 2017 Fall. <br />
+[Introduction to R], **Tri-institution: Weill Cornell, Rockefeller and Memorial Sloan Kettering** <br />
+Instructor, SP2016, FL2016, SP2017, FL2017. <br />
 Course materials can be found [here].
 
 ### Technical Skills
-Programming languages: 
-R, Python (sklearn, Tensorflow, Keras), matlab, C++, Java, Unix shell scripting, scripting in HPC clusters. <br />
-Next-generation sequencing assays: <br />
-RNA-seq, ChIP-seq, ATAC-seq.
+Programming languages: R, Python (sklearn, Tensorflow, Keras), matlab, C++, Java, Unix shell scripting, scripting in HPC clusters. <br />
+Next-generation sequencing assays: RNA-seq, ChIP-seq, ATAC-seq.
 
 ### Relevant Courses
-Statistics and Machine Learning: <br />
-Intermediate Statistics (A+), Matrix Algebra (A+), Algorithms and Data Structure (A-), Probablistic Graphical Models (A-), Machine Learning (Pass), Applied Machine Learning (A). <br />
-Biology: <br />
-Chemistry, Organic Chemistry, Biology (I&II), Eukaryotic Genomes (A), Quantitative Genomics (A), Evolution (A-), Physiological Control System (A).
+Probability & Statistics: 
+* Matrix Algebra (MATH309): A+
+* Intermediate Statistics and Data Analysis (MATH3200): A+
+* Probability (MATH493): A-
+* Biostatistics (MATH322): A
+* Bayesian Statistics (MATH459): A
+
+Computer Science & Machine learning: 
+* Computer Science (CSE131, CSE132): A
+* Logic and Discrete Mathematics (CSE240): A
+* Algorithms and Data Structures (CSE241): A-
+* Introduction to System Software (CSE361S): A
+* Probablistic Graphical Models (BTRY6790): A-
+* Machine Learning (CS4780): Pass
+* Applied Machine Learning (CS5785): A
 
 ### University Service
 Tri-I CBM program Student Council member (2015-2016). <br />

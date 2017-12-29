@@ -3,9 +3,12 @@ layout: page
 title: Research
 permalink: /research/
 ---
+### Research interests
+**Computational Biology**: transcription factor binding site prediction, drug sensitivity prediction, next-generation sequencing analysis.
+**Machine Learning**: generalized linear models, multitask learning, word embedding, probablistic models.
 
-### Characterize transcription factor binding using supervised embedding method
-Transcription factor binding site prediction: Using in vitro binding profiles of transcription factors and genome-wide chromatin accessibility assays such as ATAC-seq or DNase-seq, we apply machine learning methods (such as topic model) to decode the transcription factor binding network in various cell types. 
+### Characterize transcription factor binding
+Using *in vitro* binding profiles of transcription factors, we implemented popular methods in natural language processing such as word embedding and topic models and try to characterize the binding pattern of different transcription factors as probablity distribution over short sequences (kmers). Based on the models we learned and genome-wide accessibility landscape, we try to decode transcription factor binding network in various cell types. 
 
 ### Predict cancer drug response using multitask learning
 Using publicly available drug response and molecular characterization data sets of cancer cell lines, we developed a novel multi-task learning approach to predict drug sensitivity. While traditional approaches train a model for each drug independently, our model train one model for all drugs at once. Our model exploits the relationship between drugs to improve prediction performance. We implemented a trace norm regularized regression model that outperformed elastic net single-task learning model on all data sets.

@@ -5,12 +5,12 @@ title: Publication
 pubs:
 
     - title:   "Characterize transcription factor binding in a shared space."
-      author:  "Yuan H, Kshirsgar M, Leslie CS."
+      author:  "Yuan H, Kshirsagar M, Leslie CS."
       journal: "in preparation"
       year:    "2018"
 
     - title: "Topic model for infering transcription factor binding jointly from SELEX-seq and ATAC-seq."
-      author:  "Kshirsgar M, Yuan H, Leslie CS."
+      author:  "Kshirsagar M, Yuan H, Leslie CS."
       journal: "in preparation"
       year:    "2018"
 
@@ -46,7 +46,7 @@ pubs:
 
 ---
 
-## Publications
+### Journal Papers
 
 {% assign thumbnail="left" %}
 
@@ -59,11 +59,11 @@ pubs:
 {% endfor %}
 
 ## Conferences
-Kshirsagar M, Yuan H\*, Leslie CS. Topic model for inferring transcription factor binding profiles jointly from SELEX-seq and ATAC-seq. CSHL New York Quantitative Biology Meeting, August 2017. (*Oral presenter).
+Kshirsagar M, **Yuan H\***, Leslie CS. Topic model for inferring transcription factor binding profiles jointly from SELEX-seq and ATAC-seq. CSHL New York Quantitative Biology Meeting, August 2017. (*Oral presenter).
 
-Yuan H\*, Paskov I, Paskov H, González AJ, Leslie CS. Multitask learning improves prediction of cancer drug sensitivity, NYAS Machine Learning Symposium, March 2016 (*Oral presenter)
+**Yuan H\***, Paskov I, Paskov H, González AJ, Leslie CS. Multitask learning improves prediction of cancer drug sensitivity, NYAS Machine Learning Symposium, March 2016 (*Oral presenter)
 
-Paskov I, Yuan H\*, Paskov H, González AJ, Leslie CS. Joint learning over drugs improves prediction of cancer drug response, RECOMB/ISCB Conference on Regulatory and Systems Genomics, Abstract and Oral Presentation, 2014. (*Oral presenter)
+Paskov I, **Yuan H\***, Paskov H, González AJ, Leslie CS. Joint learning over drugs improves prediction of cancer drug response, RECOMB/ISCB Conference on Regulatory and Systems Genomics, Abstract and Oral Presentation, 2014. (*Oral presenter)
 
-Dougherty JD, Yuan H, Constantino JN. Testing the Molecular Genetic Basis of Transmission of Autism Risk by Healthy Mothers, the International Meeting for Autism Research, Donostia, Spain, 2013.
+Dougherty JD, **Yuan H**, Constantino JN. Testing the Molecular Genetic Basis of Transmission of Autism Risk by Healthy Mothers, the International Meeting for Autism Research, Donostia, Spain, 2013.
 

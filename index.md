@@ -14,7 +14,7 @@ I am a Ph.D student in the Tri-Institutional Computational Biology and Medicine 
 Ph. D in Computational Biology and Medicine  (Aug.2013-Present) <br />
 Anticipated graduation: Dec.2018
 
-**Washington University in St. Louis*, Saint Louis, MO <br />
+**Washington University in St. Louis**, Saint Louis, MO <br />
 B.S. Double Major in Biology and Mathematics, minor in Computer Science (Aug.2009–May.2013) <br />
 GPA: 3.88/4.0 <br />
 

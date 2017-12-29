@@ -11,12 +11,13 @@ I am a Ph.D student in the Tri-Institutional Computational Biology and Medicine 
 
 ### Education
 **Tri-Institutional Ph. D Program (Cornell University, Weill Cornell Medical College, Memorial Sloan Kettering Cancer Center)**, New York, NY <br />
-Ph. D in Computational Biology and Medicine  (Aug.2013-Present) <br />
-Anticipated graduation: Dec.2018
+Ph. D in Computational Biology and Medicine  (2013-Present) <br />
+Anticipated graduation: 2018
 
 **Washington University in St. Louis**, Saint Louis, MO <br />
-B.S. Double Major in Biology and Mathematics, minor in Computer Science (Aug.2009–May.2013) <br />
-GPA: 3.88/4.0 <br />
+B.S. Double Major in Biology and Mathematics, minor in Computer Science (2009–2013) <br />
+2011 HHMI Summer Undergraduate Fellowship <br />
+GPA: 3.88/4.0 (*summa cum laude*) <br />
 
 ### Contact
 Han Yuan <br />

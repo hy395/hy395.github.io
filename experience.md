@@ -10,21 +10,19 @@ May.2016 - August.2016 <br />
 Using public cancer immunotherapy response and gene expression data sets, we try to identify the gene signatures that predicts immunotherapy effectiveness and resistance.
 
 ### Teaching
-#### Tri-institution: Weill Cornell, Rockefeller and Memorial Sloan Kettering
+**Tri-institution: Weill Cornell, Rockefeller and Memorial Sloan Kettering**
 Instructor, [Introduction to R], 2016 Spring, 2016 Fall,  2017 Spring, 2017 Fall. <br />
 Course materials can be found [here].
 
 ### Technical Skills
 Programming languages: 
-R, Python (sklearn, Tensorflow, Keras), matlab, C++, Java, Unix shell scripting, scripting in HPC clusters.
-
+R, Python (sklearn, Tensorflow, Keras), matlab, C++, Java, Unix shell scripting, scripting in HPC clusters. <br />
 Next-generation sequencing assays: <br />
 RNA-seq, ChIP-seq, ATAC-seq.
 
 ### Relevant Courses
 Statistics and Machine Learning: <br />
-Intermediate Statistics (A+), Matrix Algebra (A+), Algorithms and Data Structure (A-), Probablistic Graphical Models (A-), Machine Learning (Pass), Applied Machine Learning (A).
-
+Intermediate Statistics (A+), Matrix Algebra (A+), Algorithms and Data Structure (A-), Probablistic Graphical Models (A-), Machine Learning (Pass), Applied Machine Learning (A). <br />
 Biology: <br />
 Chemistry, Organic Chemistry, Biology (I&II), Eukaryotic Genomes (A), Quantitative Genomics (A), Evolution (A-), Physiological Control System (A).
 

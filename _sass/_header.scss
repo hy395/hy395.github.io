@@ -1,16 +1,18 @@
 .site-header {
-    border-bottom: 1px solid $line-color;
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+    border-bottom: 3px solid #1a252f;
     position: relative;
     text-transform: uppercase;
     font-size: $small-font-size;
+    padding: 0.5em 0;
     @extend %clearfix;
 }
 
 .site-header, .site-header a {
-    color: $header-text-color;
+    color: #ecf0f1;
 }
 .site-header a:hover {
-    color: $header-hover-color;
+    color: #3498db;
     text-decoration: none;
 }
 
@@ -18,18 +20,23 @@
     margin-top: 1em;
     margin-bottom: 1em;
     float: left;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
+    font-family: $heading-font-family;
+    font-weight: 700;
+    font-size: 1.1em;
 }
 
 .site-nav {
-    background: $background;
+    background: transparent;
 }
 
 .site-nav ul {
     text-align: right;
     float: right;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     list-style-type: none;
+    font-family: $heading-font-family;
+    font-weight: 600;
 }
 
 .site-nav .menu > li {

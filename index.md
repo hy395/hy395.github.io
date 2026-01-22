@@ -13,7 +13,7 @@ permalink: /
 
 {% include image.html url="images/profile.jpg" caption="" width="250px" height="250px" align="right" %}
 
-I develop DNA sequence models to study gene regulation and disease. Currently at Calico Life Sciences, where my work combines deep learning and functional genomics to identify therapeutic targets and understand regulatory mechanisms.
+I develop DNA sequence models to study gene regulation and disease. Currently at **Calico Life Sciences**, where my work combines deep learning and functional genomics to identify therapeutic targets and understand regulatory mechanisms.
 
 Ph.D. in Computational Biology, Cornell University (2019).
 

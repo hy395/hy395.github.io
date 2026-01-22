@@ -6,7 +6,6 @@ permalink: /
 
 # Han Yuan, Ph.D.
 
-[Twitter/X](https://twitter.com/HY3952) &nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/han-yuan-0b909755/) &nbsp;&nbsp; 
 [Google Scholar](https://scholar.google.com/citations?user=FryLQFwAAAAJ)
 

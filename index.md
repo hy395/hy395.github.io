@@ -11,7 +11,7 @@ permalink: /
 💼 [LinkedIn](https://www.linkedin.com/in/han-yuan-0b909755/) &nbsp;&nbsp; 
 🎓 [Google Scholar](https://scholar.google.com/citations?user=FryLQFwAAAAJ)
 
-{% include image.html url="images/profile.jpg" caption="" width="250px" height="250px" align="right" %}
+{% include image.html url="images/profile.jpg" caption="" width="180px" height="180px" align="right" %}
 
 I develop DNA sequence models to study gene regulation and disease. Currently at **Calico Life Sciences**, where my work combines deep learning and functional genomics to identify therapeutic targets and understand regulatory mechanisms.
 

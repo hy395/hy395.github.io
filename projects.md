@@ -12,7 +12,7 @@ An important focus of my research is building frameworks for therapeutic target 
 
 My work transfers sequence-to-function models into disease-relevant cellular contexts to infer gene regulatory networks, identify disrupted pathways and regulatory mechanisms, and mechanistically interpret disease-associated variants. By integrating statistical genetics (fine-mapping, QTL colocalization) with sequence-based deep learning, this approach enables the prioritization of therapeutic targets with interpretable regulatory mechanisms.
 
-I have applied this framework across multiple disease areas to uncover regulatory genes and pathways with strong translational potential.
+We applied this framework across multiple disease areas to uncover regulatory genes and pathways with strong translational potential.
 
 <div class="related-work" markdown="1">
 **Related work:** [Borzoi-PEFT](https://www.biorxiv.org/content/10.1101/2025.05.26.656171v2) (*Genome Biology*, 2026)

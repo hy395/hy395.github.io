@@ -4,32 +4,15 @@ title: Experience
 permalink: /experience/
 ---
 
-## Work Experience
-
 ### Senior Machine Learning Scientist
-**Calico Life Sciences, South San Francisco, CA**  
-*2019 – Present*  
-Develop sequence-based ML models for gene regulation and variant effects; combine multi-omic data analyses and ML methods to identify therapeutic targets; received Calico Recognition Awards in 2020 and 2022.
+**Calico Life Sciences** | *2019 – Present*
 
-### Research Intern
-**IBM Thomas J. Watson Research Center, Yorktown Heights, NY**  
-*2016*  
-Identified gene signatures predictive of cancer immunotherapy effectiveness and resistance using public genomics datasets.
+Develop foundational DNA sequence models for gene regulation and variant effect prediction. Lead multi-omic analyses to identify and validate therapeutic targets in age-related diseases. Received Calico Recognition Awards in 2020 and 2022.
 
 ---
 
-## Teaching
+### Ph.D. in Computational Biology and Medicine
+**Cornell University** | *2013 – 2019*
 
-**Introduction to R** – Tri-Institutional Training (Weill Cornell, Rockefeller, Memorial Sloan Kettering)  
-Instructor: Spring 2016, Fall 2016, Spring 2017, Fall 2017  
-[Course materials on GitHub](https://github.com/hy395/R-course)
-
----
-
-## Technical Skills
-
-**Language:** Chinese, English  
-**Programming:** PyTorch, TensorFlow, R, C++, Unix/Linux, HPC, GCP  
-**Genomics:** RNA/ChIP/ATAC/DNase analysis, single-cell RNA/ATAC/multiome analysis  
-**Genetics:** eQTL, caQTL, GWAS, fine-mapping, colocalization, LDSC   
-**Machine Learning:** CNN, transformers, SSM, parameter-efficient fine-tuning, variational autoencoders
+Advisor: [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie)  
+Thesis: *Modeling Large-scale Data Sets in Computational Genomics with Joint Learning*

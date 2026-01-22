@@ -6,11 +6,14 @@ permalink: /
 
 # Han Yuan, Ph.D.
 
+
 🐦 [@HY3952](https://twitter.com/HY3952) &nbsp;&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/han-yuan-0b909755/) &nbsp;&nbsp; 
 🎓 [Google Scholar](https://scholar.google.com/citations?user=FryLQFwAAAAJ)
 
 {% include image.html url="images/profile.jpg" caption="" width="300px" height="250px" align="right" %}
+
+## About Me
 
 I am a machine learning scientist at Calico Life Sciences, where I study functional genomics using deep learning. My research focuses on developing DNA sequence–based models to learn regulatory logic from functional genomic data, and on applying and interpreting these models to study gene regulatory networks, variant effects, and their roles in disease.
 

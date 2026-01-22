@@ -8,14 +8,12 @@ permalink: /experience/
 
 ### Senior Machine Learning Scientist
 **Calico Life Sciences, South San Francisco, CA**  
-*2019 – Present*
-
+*2019 – Present*  
 Develop sequence-based ML models for gene regulation and variant effects; combine multi-omic data analyses and ML methods to identify therapeutic targets; received Calico Recognition Awards in 2020 and 2022.
 
 ### Research Intern
 **IBM Thomas J. Watson Research Center, Yorktown Heights, NY**  
-*2016*
-
+*2016*  
 Identified gene signatures predictive of cancer immunotherapy effectiveness and resistance using public genomics datasets.
 
 ---

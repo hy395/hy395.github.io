@@ -23,6 +23,8 @@
 
 .post {
     margin-bottom: $spacing-unit;
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
     @extend %clearfix;
 }
 

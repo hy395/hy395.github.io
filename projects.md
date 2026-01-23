@@ -8,9 +8,9 @@ permalink: /projects/
 
 ## ML-Based Therapeutic Target Discovery
 
-An important focus of my research is building frameworks for therapeutic target discovery that bridge human genetics, regulatory genomics, and machine learning.
+A central focus of my research is building frameworks for therapeutic target discovery that bridge human genetics, regulatory genomics, and machine learning.
 
-My work transfers sequence-to-function models into disease-relevant cellular contexts to infer gene regulatory networks, identify disrupted pathways and regulatory mechanisms, and mechanistically interpret disease-associated variants. By integrating statistical genetics (fine-mapping, QTL colocalization) with sequence-based deep learning, this approach enables the prioritization of therapeutic targets with interpretable regulatory mechanisms.
+By transferring sequence-to-function models into disease-relevant cellular contexts, we can infer gene regulatory networks, identify disrupted pathways and regulatory mechanisms, and mechanistically interpret disease-associated variants. By integrating statistical genetics (fine-mapping, QTL colocalization) with sequence-based deep learning, this approach enables the prioritization of therapeutic targets with interpretable regulatory mechanisms.
 
 We applied this framework across multiple disease areas to uncover regulatory genes and pathways with strong translational potential.
 
